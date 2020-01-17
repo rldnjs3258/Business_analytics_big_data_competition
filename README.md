@@ -31,7 +31,6 @@
 ## (1) 모델 구성
  - 모델 : LSTM
  - Loss : Mean Squared Error
- - Optimizer : rmsprop
  - Batch size : 10
  - Epochs : 15
 
@@ -40,7 +39,6 @@
 ## (2) 결과물
  - Loss : 0.0053
  - Val Loss : 0.0055
- - 예측 값 : 56405.17
 
 <br>
 <hr>
